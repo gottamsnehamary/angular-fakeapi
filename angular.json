@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-assigment-one"
+    }
+  },
+  "defaultProject": "app-assigment-one",
+  "cli": {
+    "analytics": "fccdfae9-b06d-4aa0-a8f3-359e67ab5e05"
+  }
 }
