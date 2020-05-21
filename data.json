@@ -1,0 +1,99 @@
+{
+  "userList": [{
+          "UPID": "5dc3b8f456db6945bf7aab44",
+          "name": "Arun Nvs",
+          "progress": 0,
+          "star": "mid",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      },
+      {
+          "UPID": "5dc3b8f456db6945bf7aab48",
+          "name": "Rupesh J",
+          "progress": 0,
+          "star": "mid",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      },
+      {
+          "UPID": "5dc3b8f556db6945bf7aab4c",
+          "name": "Bhuvi D",
+          "progress": 0,
+          "star": "high",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      },
+      {
+          "UPID": "5dc3b8f556db6945bf7aab50",
+          "name": "Vidya P",
+          "progress": 0,
+          "star": "high",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      },
+      {
+          "UPID": "5dc3b8f656db6945bf7aab54",
+          "name": "Ritu Ch",
+          "progress": 0,
+          "star": "mid",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      },
+      {
+          "UPID": "5dc3b8f656db6945bf7aab58",
+          "name": "Ahlad K",
+          "progress": 0,
+          "star": "low",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      },
+      {
+          "UPID": "5dc3b8f756db6945bf7aab5c",
+          "name": "Hamzah ",
+          "progress": 0,
+          "star": "mid",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      },
+      {
+          "UPID": "5dc3b8f756db6945bf7aab60",
+          "name": "Jaikrishna N",
+          "progress": 0,
+          "star": "mid",
+          "accuracy": 0,
+          "actions": [
+              "Reset Password",
+              "View Report",
+              "More"
+          ]
+      }
+  ]
+}
